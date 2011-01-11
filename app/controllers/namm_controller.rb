@@ -1,6 +1,6 @@
 require 'httparty'
-require 'json'
-require 'uri'
+#require 'json'
+#require 'uri'
 
 class NammController < ApplicationController
   respond_to :html
