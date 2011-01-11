@@ -54,7 +54,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/namm/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="86" selection-start="287" selection-end="287" vertical-scroll-proportion="0.35324675">
+            <state line="13" column="33" selection-start="444" selection-end="444" vertical-scroll-proportion="0.574026">
               <folding />
             </state>
           </provider>
@@ -63,7 +63,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="36" selection-start="132" selection-end="132" vertical-scroll-proportion="-3.2692308">
+            <state line="7" column="2" selection-start="158" selection-end="158" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
@@ -140,8 +140,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/app/controllers/namm_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/namm/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -667,13 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="36" selection-start="132" selection-end="132" vertical-scroll-proportion="-3.2692308">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/namm_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="15" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
@@ -681,9 +674,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="158" selection-end="158" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/namm/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="86" selection-start="287" selection-end="287" vertical-scroll-proportion="0.35324675">
+        <state line="13" column="33" selection-start="444" selection-end="444" vertical-scroll-proportion="0.574026">
           <folding />
         </state>
       </provider>
