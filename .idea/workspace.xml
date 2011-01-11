@@ -33,10 +33,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="141" selection-end="141" vertical-scroll-proportion="0.2895377">
+            <state line="7" column="1" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="0" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.91727495">
               <folding />
             </state>
           </provider>
@@ -64,15 +73,6 @@
         <entry file="file://$PROJECT_DIR$/app/views/namm/_track.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="87" selection-start="87" selection-end="87" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="request.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/httparty/request.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="176" column="0" selection-start="4818" selection-end="4818" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -594,11 +594,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Ruby192/lib/ruby/gems/1.9.1/gems/soundcloud-ruby-api-wrapper-0.4.8/lib/soundcloud.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/my_test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" />
@@ -679,7 +674,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="141" selection-end="141" vertical-scroll-proportion="0.2895377">
+        <state line="7" column="1" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="0" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.91727495">
           <folding />
         </state>
       </provider>
