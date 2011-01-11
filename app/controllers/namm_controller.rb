@@ -9,7 +9,7 @@ class NammController < ApplicationController
     query = params[:q] || "namm"
     tag_list = params[:tags] || "soundcloud:source=iphone-record"
     limit = params[:limit] || 10
-    parameters = {
+    @parameters = {
       :q => query,
       :tag_list => tag_list,
       :consumer_key => SoundCloudParty::CONSUMER_KEY,
@@ -17,7 +17,7 @@ class NammController < ApplicationController
       :order => "created_at",
       "created_at[to]" => now
     }
-    @namm_iphone_tracks = SoundCloudParty.get("http://api.soundcloud.com/tracks.json", {:query => parameters})
+    @namm_iphone_tracks = SoundCloudParty.get("http://api.soundcloud.com/tracks.json", {:query => @parameters})
     puts @namm_iphone_tracks
     respond_with @namm_iphone_tracks
   end

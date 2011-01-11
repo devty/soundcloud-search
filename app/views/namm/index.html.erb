@@ -1,6 +1,19 @@
 
 <h1>NAMM Tracks from SC iPhone App</h1>
 <div id="refreshable">
-    <%= render :partial => "track", :collection => @namm_iphone_tracks %>
+   <form method="get">
+     <p>
+       <label for="q">Search Terms</label>: <%= text_field_tag :q, @parameters[:q] %>
+     </p>
+     <p>
+       <label for="tags">Tags</label>: <%= text_field_tag :tags, @parameters[:tag_list] %>
+     </p>
+     <p>
+       <label for="tags">Limit</label>: <%= text_field_tag :limit, @parameters[:limit] %>
+     </p>
+
+   </form>
+   <%= render :partial => "track", :collection => @namm_iphone_tracks %>
+  <%= render :partial => "track", :collection => @namm_iphone_tracks %>
 </div>
 
