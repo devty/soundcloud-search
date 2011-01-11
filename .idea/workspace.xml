@@ -54,7 +54,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/namm/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="33" selection-start="444" selection-end="444" vertical-scroll-proportion="0.574026">
+            <state line="15" column="2" selection-start="458" selection-end="458" vertical-scroll-proportion="0.66233766">
               <folding />
             </state>
           </provider>
@@ -140,8 +140,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/app/controllers/namm_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/namm/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/namm/index.html.erb" />
       </list>
     </option>
   </component>
@@ -683,7 +683,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/namm/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="444" selection-end="444" vertical-scroll-proportion="0.574026">
+        <state line="15" column="2" selection-start="458" selection-end="458" vertical-scroll-proportion="0.66233766">
           <folding />
         </state>
       </provider>
